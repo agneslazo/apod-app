@@ -1,0 +1,44 @@
+.HomeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+}
+
+.Date {
+    padding: 16px;
+    font-size: large;
+    font-weight: bold;
+    color: #9e74d0;
+}
+
+.Paper {
+    width: 90vw;
+    padding: 16px 0;
+    max-width: 500px;
+}
+
+.APODImgContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 8px 0;
+}
+
+.APODImgContainer img {
+    max-height: 35vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.Title {
+    margin: 8px;
+    text-align: justify;
+}
+
+.View {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 4px;
+}

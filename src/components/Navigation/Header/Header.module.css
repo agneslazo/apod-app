@@ -1,0 +1,13 @@
+.Header {
+    height: 10vh;
+    background-color: #fde992;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Logo {
+    height: 10vh;
+    width: 10vh;
+    padding-right: 8px;
+}

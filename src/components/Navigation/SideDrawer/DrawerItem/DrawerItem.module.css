@@ -1,0 +1,8 @@
+.DrawerItem {
+    padding: 8px;
+    margin: 4px 0;
+}
+
+.DrawerItem:hover {
+    background-color: #ffa351;
+}
